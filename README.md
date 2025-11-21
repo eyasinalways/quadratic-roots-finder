@@ -39,4 +39,4 @@ Where:
 
 ### **1. Compile**
 ```bash
-javac Index.java
+javac index.java
